@@ -1,0 +1,37 @@
+1=a 2=u 8=d 9=n 0=t
+dr om gm(ga/ge) es tnx vy fer ur call.
+亲爱的朋友,早上好,非常感谢您的呼叫.
+tnx fer call.  谢谢您回答我的呼叫.
+ur rst 599 5NN  你的信号是599
+dr om XXX(op), tnx for 599 rprt 亲爱的朋友，谢谢您给我599的信号报告。
+my name is zhu ，age 44,es work in the office, es qth in shanghai china.
+我的名字叫朱,45岁，在办公室工作，地址在中国上海.
+hr rig is IC7600, es pwr is 100 watts es ANT DP（adverse） V ABT 7M HI，es my key is military k4.
+我的设备是IC-7600,输出功率100瓦特，天线是正V（adverse倒）架设的DP天线.高度大概7米.我使用军用电键K4.
+my rig pwr is 100w.   我的设备功率是100瓦特
+wx(天气) hr is cloudy(fine晴天/fog雾天/snow下雪/frost冰冻) temp is 20C， in my home(office)。
+这里的天气是阴天，温度20度，我在家里。
+the local time is 0830 am QTR 0830   当地时间上午8点30分。
+I'm sorry, this time want work.     对不起，我的工作时间到了。
+sri bgn wk   对不起，开始工作了。
+sri XYL IS CALLING ME FOR LUNCH(Breakfast早餐/Dinner晚餐) NOW 
+对不起，我妻子叫我吃午饭。
+tnx fer all info  谢谢您告诉我这么多信息。
+qsl info qrz.com    我的联系信息可以在qrz.com上查到。
+tnx fer cw qso,nw qru hpe cuagn sn 73 to u es ur family gb dr XXXX.
+多谢这次直接联络，现在无事，希望很快再见到您，73送给您及您的家人，再见，亲爱的XXX。
+gl to u es best dx 73 dr XXX gb！
+祝您好运，并取得更好的DX成绩，亲爱的XXX 再见！
+hr key to u pse u call cq (b)。我将电键交给您，请您继续呼叫CQ (中国HAM).
+sri pse as！   对不起，请稍候！
+pse ans i ur name es qth hw?
+ur name ?
+pse ans i ur rig es ant hw?
+ur rig ?
+hr is new, hd pse qrs.
+ur cs pse agn.
+NW QRU GL GB 73 TU E E
+
+
+
+
